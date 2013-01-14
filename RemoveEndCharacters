@@ -1,0 +1,4 @@
+// -1 denotes the number of characters to remove from the end of a string
+
+"1234".slice(0,-1)
+
